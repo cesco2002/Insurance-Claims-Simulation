@@ -4,9 +4,9 @@
 
 This repository contains a comprehensive stochastic modeling analysis of insurance claims data. The project is organized as follows:
 
-- **`insurance_claims_analysis.R`** - Complete R script containing all analysis functions and methods
-- **`insurance_claims_analysis.html`** - Interactive HTML report with code, visualizations, and detailed commentary ([View Report]([xxxyyyzzz](https://cesco2002.github.io/Insurance-Claims-Simulation/claims_simulation.html)))
-- **`DATA_SET_4.csv`** - Source dataset (motor insurance portfolio data)
+- **`claims_sim.R`** - Complete R script containing all analysis functions and methods
+- **`doc/claims_simulation.html.html`** - Interactive HTML report with code, visualizations, and detailed commentary ([View Report]([xxxyyyzzz](https://cesco2002.github.io/Insurance-Claims-Simulation/claims_simulation.html)))
+- **`data/DATA_SET_4.csv`** - Source dataset (motor insurance portfolio data)
 - **`README.md`** - This file
 
 **For optimal viewing experience:** While the R code demonstrates the technical implementation, I recommend viewing the [HTML report]([xxxyyyzzz](https://cesco2002.github.io/Insurance-Claims-Simulation/claims_simulation.html)) for a complete analysis with integrated results, visualizations, and interpretations.
